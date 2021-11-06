@@ -1,0 +1,15 @@
+.ejs {
+    opacity: 0;
+
+    animation-delay: 0.75s;
+    animation-duration: 500ms;
+    animation-fill-mode: forwards;
+    animation-timing-function: ease-in-out;
+
+    a {
+        font-size: 98px;
+        font-weight: 700;
+        color: #a91e50;
+        text-decoration: none;
+    }
+}
